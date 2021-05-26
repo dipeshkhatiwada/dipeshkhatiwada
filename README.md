@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi , It's Dipesh khatiwada 👋
+<h2 align="center">( Web Developer  ) </h2>            
 
-<!--
-**dipeshkhatiwada/dipeshkhatiwada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+- 🔭 I’m currently working on PHP laravel
+- 🌱 I’m currently learning vue Js
+- 👯 I’m looking to collaborate on Open source Platform
+- 🤔 I’m looking for help with DevOps
+- 💬 Ask me about PHP,Laravel,Python,Djanfo
+- 📫 How to reach me: depeshkhatiwada@gmail.com
+- 😄 Pronouns: DIPESH
+</p>
