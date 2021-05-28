@@ -16,6 +16,6 @@ with a desire to gain strong technical foundation .  </h2>
 
 - 💬 You can ask me about ` PHP, Laravel, Python, Djanfo, React JS, Web Design and Develpopment `
 
-- 📫 Reach me at ` depeshkhatiwada@gmail.com `
+- 📫 Reach me at : depeshkhatiwada@gmail.com
 
 </p>
