@@ -1,22 +1,21 @@
 
-<h1 align="center">Hi , It's Dipesh khatiwada 👋</h1>            
-<h2 align="center">( Web Developer  ) </h2>            
+<h1 align="center">Hi , Namaste 👋</h1>            
+<h2 align="center">I am a Professional Web Developer, focused and dedicated
+with a desire to gain strong technical foundation .  </h2>            
 
 
 <p align="center">
   
-- 🔭 I’m currently working on PHP laravel
+- 🔭 I’m currently working on ` PHP laravel Application development `
 
-- 🌱 I’m currently learning vue Js
+- 🌱 I’m currently learning ` vue Js, CI/CD, Devops `
 
-- 👯 I’m looking to collaborate on Open source Platform
+- 👯 I’m looking to collaborate on ` Open source Project `
 
-- 🤝 I’m looking for help with DevOps
+- 🤝 I’m looking for help with ` Code Implement and technological Development ` 
 
-- 💬 Ask me about PHP,Laravel,Python,Djanfo
+- 💬 You can ask me about ` PHP, Laravel, Python, Djanfo, React JS, Web Design and Develpopment `
 
-- 📫 How to reach me: depeshkhatiwada@gmail.com
-  
-- 😄 Pronouns: DIPESH
+- 📫 Reach me at ` depeshkhatiwada@gmail.com `
 
 </p>
