@@ -14,7 +14,7 @@ with a desire to gain strong technical foundation .  </h2>
 
 - 🤝 I’m looking for help with ` Code Implement and technological Development ` 
 
-- 💬 You can ask me about ` PHP, Laravel, Python, Djanfo, React JS, Web Design and Develpopment `
+- 💬 You can ask me about ` PHP, Laravel, Python, Django, React JS, Web Design and Develpopment `
 
 - 📫 Reach me at : depeshkhatiwada@gmail.com
 
