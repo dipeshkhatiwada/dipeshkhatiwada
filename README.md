@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , Namaste 👋</h1>            
-<h2 align="center">I am a Professional Web Developer, focused and dedicated
-with a desire to gain strong technical foundation .  </h2>            
+<h2 align="center">I am a Professional Full-stack Web Developer, focused and dedicated
+with strong technical Knowledge .  </h2>            
 
 
 <p align="center">
