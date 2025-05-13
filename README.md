@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , Namaste 👋</h1>            
+<h1 align="center">Hi  👋</h1>            
 <h2 align="center">I am a Professional Full-stack Web Developer, focused and dedicated
 with strong technical Knowledge .  </h2>            
 
